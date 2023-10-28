@@ -1,2 +1,2 @@
 # minu
-my name is mini.
+My name is mini.
